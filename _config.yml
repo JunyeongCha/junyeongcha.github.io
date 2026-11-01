@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Junyeong.log # the main title
 
-tagline: Yonsei AI '25 | CS · Math · Deep Learning · Dev Log # it will display as the subtitle
+tagline: Yonsei AI '25 | AI · Math · Deep Learning · Dev Log # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   연세대학교 인공지능학과 차준영의 전공, 실무, 논문 및 개발 아카이브입니다.
